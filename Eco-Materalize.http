@@ -1,0 +1,6 @@
+@Eco_Materalize_HostAddress = http://localhost:5149
+
+GET {{Eco_Materalize_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
